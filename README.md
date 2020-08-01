@@ -20,7 +20,7 @@
   - Login com Facebook.
   - Sincronização das notas em nuvem.
     
-## Dependências do Backend
+## Dependências
   - NodeJS
   - Express
   - SQLite
