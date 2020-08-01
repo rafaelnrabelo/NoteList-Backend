@@ -8,10 +8,10 @@
 <h2 align="center">
   Aplicação para salvar anotações <br/>
   <br/>
-  <a href="https://github.com/rafaelnrabelo/NoteList#testando">
+  <a href="https://github.com/rafaelnrabelo/NoteList-Backend#testando">
     <img src="https://img.shields.io/badge/Testing-Install-%23DA552F" alt="testing"/>
   </a>
-  <a href="https://github.com/rafaelnrabelo/NoteList/releases/latest">
+  <a href="https://github.com/rafaelnrabelo/NoteList-Backend/releases/latest">
     <img src="https://img.shields.io/badge/Last%20Release-2.1.1-%23DA552F" alt="release"/>
   </a>
 </h2>
